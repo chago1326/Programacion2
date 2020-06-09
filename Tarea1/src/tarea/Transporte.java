@@ -25,13 +25,9 @@ public class Transporte {
     private String tipoDeCarga;
     private String[] registro;
 
-    public Transporte(String pNombre, String pCedula, String pTipoCamion, String pTipoDeCarga) {
+    public Transporte() {
         this.registro = new String[4];
-        this.nombre = pNombre;
-        this.cedula = pCedula;
-        this.tipoCamion = pTipoCamion;
-        this.tipoDeCarga = pTipoDeCarga;
-        this.registro = new String[4];
+        
     }
 
     public void agregarChoferes(String nom, String ced, String tipoCam, String tipoCarg) {
@@ -73,12 +69,9 @@ public class Transporte {
     public static void main(String[] args) {
        
 
-        String pNombre = JOptionPane.showInputDialog("Ingrese su nombre: ");
-        String pCedula = JOptionPane.showInputDialog("Ingrese su cedula: ");
-        String pTipoCamion = JOptionPane.showInputDialog("Ingrese el tipo de camion: ");
-        String pTipoDeCarga = JOptionPane.showInputDialog("Ingrese el tipo de carga del camion: ");
+       
 
-        Transporte log = new Transporte(pNombre, pCedula, pTipoCamion, pTipoDeCarga);
+        Transporte log = new Transporte();
 
         boolean salir = false;
         int opcion;
@@ -118,7 +111,7 @@ public class Transporte {
                 break;
 
             default:
-                System.out.println("Usted ingreso una opcion invalida");
+                JOptionPane.showMessageDialog(null,"Usted ingreso una opcion invalida");
 
         } 
         
