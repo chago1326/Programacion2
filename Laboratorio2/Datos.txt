@@ -1,0 +1,4 @@
+207880338,Ricardo,Masculino,Aseguramiento de la Calidad,26/01/1999,21,08/03/2017,B1,Senior
+209840567,Daniela Quesada,Femenino,Aseguramiento de la Calidad,21/06/1984,26,10/06/2011,A2,Ingeniero de Calidad
+208930454,Maria Ramires,Femenino,Produccion,05/06/1982,38,08/06/2007,C1,Arquitecto
+208130717,jennnifer ,Femenino,Aseguramiento de la Calidad,30/12/2000,19,14/05/2020,A1,Ingeniero de Calidad
