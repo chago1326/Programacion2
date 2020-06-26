@@ -1,0 +1,6 @@
+Ricardo,Millon,78,98,78
+Jennifer,Gonzales,20,45,67
+Maria,Millon,56,45,89
+Daniela,Bejarano,78,100,45
+Ricardo,Bejarano,90,78,13
+Betty,Bejarano,67,89,87
