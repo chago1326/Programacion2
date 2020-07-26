@@ -1,0 +1,20 @@
+203450765,Mario,10/10/1995,TC,Piloto,Disponible,Tripulante
+103450765,Oscar,22/05/1991,TC,Piloto,Disponible,Tripulante
+105470808,Betty,17/08/1994,TC,Piloto,Disponible,Tripulante
+708940654,Manrique,27/01/1999,TC,Piloto,Disponible,Tripulante
+607650234,Fernando,07/03/1989,TC,Servicio al cliente,Disponible,Tripulante
+308750587,Miguel,02/06/1988,TC,Servicio al cliente,Disponible,Tripulante
+105650881,Roberto,02/06/1988,TC,Servicio al cliente,Disponible,Tripulante
+407750231,David,05/02/1978,TC,Servicio al cliente,Disponible,Tripulante
+204570213,Humberto,17/06/1987,TC,Servicio al cliente,Disponible,Tripulante
+506720897,Emanuel,07/03/1975,TC,Piloto,Disponible,Tripulante
+704560123,Maria,05/04/1982,QA,Piloto,Disponible,Tripulante
+206540812,Cristian,05/03/1984,QA,Piloto,Disponible,Tripulante
+203450456,Olger,20/07/1988,QA,Piloto,Disponible,Tripulante
+607890234,Dania,14/07/1995,QA,Piloto,Disponible,Tripulante
+407140899,Anderson,25/02/1998,QA,Piloto,Disponible,Tripulante
+508760342,Doris,22/05/2000,QA,Servicio al cliente,Disponible,Tripulante
+101330446,Alfredo,28/02/2001,QA,Servicio al cliente,Disponible,Tripulante
+606620336,Berny,21/06/1994,QA,Servicio al cliente,Disponible,Tripulante
+202200337,Allan,23/04/1993,QA,Servicio al cliente,Disponible,Tripulante
+508880256,Luis,26/01/1995,QA,Servicio al cliente,Disponible,Tripulante

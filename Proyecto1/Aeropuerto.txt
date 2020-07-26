@@ -1,0 +1,14 @@
+MROC,SJO,Juan santa maria,Costa rica
+MPMG,PAC,Internacional Marcos A. Gelabert,Panama
+MHLM,SAP,Internacional Ramón Villeda Morales,Honduras
+MSLP,SAL,Internacional de El Salvador,El Salvador
+KLAX,LAX,Internacional de Los Ángeles,Estados Unidos
+KSFO,SFO,Internacional de San Francisco,Estados Unidos
+KMIA,MIA,Internacional de Miami,Estados Unidos
+MUHA,HAV,Internacional José Martí,Cuba
+SBGL,GIG,Internacional de Galeão,Brazil
+SKBO,BOG,Internacional El Dorado,Colombia
+SKRG,MDE,Internacional José María Córdova,Colombia
+ICM,MEX,Internacional de la Ciudad de México,Mexico
+IAM,ACA,Internacional de Acapulco,Mexico
+ICC,CUN,Internacional de Cancún,Mexico

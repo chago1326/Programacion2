@@ -1,0 +1,11 @@
+TC,Taca,10/07/2002,Local
+AA,Ameica arline,13/10/2010,Local
+AV,Avianca,18/10/2012,Internacional
+LA,LATAM Airlines,28/05/2003,Internacional
+EM,Emirates,08/03/1985,Internacional
+QA,Qatar Airways,20/06/2000,Internacional
+AMAS,Amaszonas,14/06/2012,Local
+TA,Tap Air,20/10/2015,Local
+AMEX,AEROMEXICO,12/09/2018,Internacional
+CD,Condor,17/12/2013,Internacional
+JB,JetBlue,26/01/2008,Local

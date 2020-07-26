@@ -1,0 +1,12 @@
+er22,YET,01/07/2020,QA,200,Disponible 
+4322,YET,15/07/2020,QA,100,DisponibleA321
+A45,Airbus,14/08/2013,TC,132,Disponible
+BO717,Boeing,16/09/2015,AA,125,Disponible
+FO0,Fokker,12/10/2011,QA,80,Disponible
+DA8,Dash,18/05/2016,QA,90,Disponible
+EM120,Embraer,03/11/2017,TC,30,Disponible
+AT42,ATRA42,10/05/2017,TC,200,Disponible
+Bo73,Boeing737,15/06/2011,AA,200,Disponible
+A320,Airbus,26/06/2009,AV,200,Disponible
+A340,Airbus,26/07/2010,LA,200,Disponible
+A350,Airbus,10/05/2006,EM,220,Disponible
